@@ -1,1 +1,2 @@
-![mortis](https://github.com/lujgfg/lujgfg/blob/master/mortis_hikena-i.gif)
+![mortis](https://raw.githubusercontent.com/lujgfg/lujgfg/master/mortis_hikena-i.gif)
+
